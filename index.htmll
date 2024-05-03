@@ -1,0 +1,14 @@
+<html>
+    <h1>womp womp</h1>
+    <p1>get popuped</p1>
+    <script>
+        for(var i =0; i<500; i++){
+        setTimeout(function() {
+        window.open("https://www.google.com/search?q=hot_toes&safe=active&ssui=on", "_blank", "width=2000,height=2000");
+        //window.open("connorIsaNerd.github.io", "_blank", "width=2000,height=2000");
+         window.open("https://www.google.com/search?q=hot_man&safe=active&ssui=on", "_blank", "width=2000,height=2000");
+        }, 1);
+        }
+    </script>
+    
+</html>
